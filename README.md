@@ -1,5 +1,7 @@
 # soccer-score-card
-
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
 <style>
   p.pseudo_demo::first-line {
     font-size: 1.5em;
